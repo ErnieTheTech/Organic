@@ -1,9 +1,10 @@
 # Organic Garden 2020
 Below are some photos of this years garden!
 
-
-![alt text](Organic_2020/ghost.JPEG "holes")
-![alt text](arcade/ac2.jpg "paint")
+# Chocolate Ghost Pepper
+![alt text](ghost.JPEG "holes")
+# Mariachi Pepper
+![alt text](mariachi.JPEG "paint")
 ![alt text](arcade/ac3.jpg "half")
 ![alt text](arcade/ac4.jpg "proto pics")
 ![alt text](arcade/ac5.JPG "print")
