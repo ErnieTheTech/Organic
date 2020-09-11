@@ -2,7 +2,7 @@
 Below are some photos of this years garden!
 
 
-![alt text](arcade/ac1.jpg "holes")
+![alt text](Organic_2020/ghost.JPEG "holes")
 ![alt text](arcade/ac2.jpg "paint")
 ![alt text](arcade/ac3.jpg "half")
 ![alt text](arcade/ac4.jpg "proto pics")
